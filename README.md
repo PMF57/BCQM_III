@@ -48,7 +48,7 @@ BCQM_III/
     outputs/            # CSVs for reproducibility
       fig1_trajectories.csv
       fig2_mean_displacement.csv
-      fig3_meff_values.csv
+      fig3_meff_values.csv'''
       
       
  ---
