@@ -48,14 +48,14 @@ BCQM_III/
     outputs/            # CSVs for reproducibility
       fig1_trajectories.csv
       fig2_mean_displacement.csv
-      fig3_meff_values.csv'''
+      fig3_meff_values.csv
       
       
  ---
 
 ## TL;DR
 
-```bash
+bash
 git clone https://github.com/PMF57/BCQM_III.git
 cd BCQM_III/SIM
 pip install numpy matplotlib      # or: pip install -r requirements.txt
