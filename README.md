@@ -49,6 +49,7 @@ BCQM_III/
       fig1_trajectories.csv
       fig2_mean_displacement.csv
       fig3_meff_values.csv
+```
       
       
  ---
