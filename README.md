@@ -1,5 +1,7 @@
 # BCQM III — Simulation Code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17632820.svg)](https://doi.org/10.5281/zenodo.17632820)
+
 This repository contains the simulation code used for the numerical results in
 
 > Boundary-Condition Quantum Mechanics III (BCQM III):  
