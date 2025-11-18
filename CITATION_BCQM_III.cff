@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: >-
+  If you use Boundary-Condition Quantum Mechanics III in your work,
+  please cite this paper.
+title: Boundary-Condition Quantum Mechanics III: A Stochastic Growth Model
+  for Causal Event Chains and the Emergence of Inertia
+doi: 10.5281/zenodo.17632453
+url: https://doi.org/10.5281/zenodo.17632453
+type: article
+authors:
+  - family-names: Ferguson
+    given-names: Peter M.
+    orcid: https://orcid.org/0009-0006-6260-5058
+date-released: 2025-11-18
+version: "1.0"
+abstract: >-
+  This work develops the third stage of the Boundary-Condition Quantum Mechanics
+  (BCQM) programme. It introduces a hop-bounded, retarded growth model for
+  quantum event chains in an emergent spacetime regime, and shows how classical
+  inertial motion and an effective mass scaling m_eff ∝ W_coh^{-2} arise from
+  finite coherence horizon and phase-coherent propagation.
